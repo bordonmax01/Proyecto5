@@ -1,0 +1,146 @@
+.circulo {
+
+	border-radius: 50%;
+	/*width: 100px;*/
+	display: inline-block;
+	position: relative;
+	    /*height: 100px; 
+	box-shadow: 10px 10px 5px rgba(0,0,0,0.5); /* corrido 10px eje x corrido 10px eje yNegro con transparencia de 0.5*/
+}
+
+.externo
+{
+    width: 150px;
+    height: 150px;
+
+}
+
+/*.nivel1 {
+
+    width: 80%;
+    height:80% ;
+    margin-right: 20px;
+    margin-left: 20px;
+    margin-bottom: 20px;
+    margin-top: 20px;
+
+}
+
+.nivel2 {
+
+    width: 70%;
+    height: 70%;
+    margin-right: 25px;
+    margin-left: 25px;
+    margin-bottom: 25px;
+    margin-top: 25px;   
+
+}
+
+
+.nivel2 {
+
+    width: 80%;
+    height: 80%;
+    margin-right: 10%;
+    margin-left: 10%;
+    margin-bottom: 10%;
+    margin-top: 10%; 
+
+
+}*/
+
+
+/*.nivel2 {
+
+    width: 80%;
+    height: 80%;
+    margin-right: 10%;
+    margin-left: 10%;
+    margin-bottom: 10%;
+    margin-top: 10%; 
+
+
+} */
+
+.nivel1 {
+
+    width: 80%;
+    height:80% ;
+    margin-right: 10%;
+    margin-left: 10%;
+    margin-bottom: 10%;
+    margin-top: 10%; 
+
+}
+
+
+.nivel2 {
+
+    width: 70%;
+    height: 70%;
+    margin-right: 15%;
+    margin-left: 15%;
+    margin-bottom: 15%;
+    margin-top: 15%; 
+
+}
+
+
+
+.nivel3 {
+
+	width: 60%;
+    height: 60%;
+    margin-right: 20%;
+    margin-left: 20%;
+    margin-bottom: 20%;
+    margin-top: 20%; 
+}
+
+
+
+
+
+.blanco {
+
+           background: white;
+        }
+
+.rojo {
+         background:red;
+
+}
+.verde {
+
+	  background: green;
+	
+}
+
+.azul {
+
+	   background: blue;
+	
+}
+
+.amarillo {
+
+	   background: yellow;
+	
+	  
+}
+.cuadrado {
+
+	         height:40%;	         
+             width:40%;              
+             display: inline-block;
+          
+}
+
+.contenedor {
+               height:200px;
+               width:200px;                          
+            }
+
+/*Escudo capitan america */
+
